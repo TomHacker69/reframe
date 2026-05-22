@@ -457,3 +457,24 @@ Made with ❤️ for everyone who just wants to edit a video without the hassle.
 </div>
 
 ---
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![GSSoC 2026](https://img.shields.io/badge/GSSoC-2026-orange?style=for-the-badge)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
+
+</div>
+
+## Quick Project Info
+
+| Field | Details |
+|------|---------|
+| **Project Name** | Reframe |
+| **Tech Stack** | Next.js, TypeScript, Tailwind CSS, FFmpeg.wasm |
+| **Project Type** | Browser-based video editing and reframing tool |
+| **Contribution Status** | Open for contributions |
+| **GSSoC 2026** | Official GSSoC’26 project |
+| **License** | Check the repository license file |
